@@ -25,3 +25,4 @@
 14-display lines containing pattern root
 15-count number of lines with bin
 16-Display lines containing root and 3lines afterwards
+17-Display lines without root
