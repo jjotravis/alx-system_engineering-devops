@@ -1,1 +1,1 @@
-0-Prints 'Hello, World' to std output
+0Prints hello world
