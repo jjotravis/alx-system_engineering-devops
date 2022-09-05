@@ -6,3 +6,4 @@
 5-Print first 10 lines of a file
 6-Print third line of file
 7-creates file  with line in it
+8-Writes the result of ls to certain file
