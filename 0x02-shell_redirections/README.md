@@ -9,4 +9,15 @@
 8-Writes the result of ls to certain file
 9-duplicate last liine in the file
 10-deletes all .js files
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
+11-counts number of directories and sub directories
 
