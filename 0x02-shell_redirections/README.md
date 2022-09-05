@@ -31,3 +31,4 @@
 20-remove letter c from input
 21-Reverses input
 22-displays all users and their home directories, sorted by users.
+100- finds all empty files and directories in the current directory and all sub-directories.
