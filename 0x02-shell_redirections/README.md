@@ -30,3 +30,4 @@
 19-replace letters in input
 20-remove letter c from input
 21-Reverses input
+22-displays all users and their home directories, sorted by users.
