@@ -27,3 +27,4 @@
 16-Display lines containing root and 3lines afterwards
 17-Display lines without root
 18-display lines that begin with letters only
+19-replace letters in input
