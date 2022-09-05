@@ -26,3 +26,4 @@
 15-count number of lines with bin
 16-Display lines containing root and 3lines afterwards
 17-Display lines without root
+18-display lines that begin with letters only
