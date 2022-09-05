@@ -23,3 +23,4 @@
 12-shows the 10 newest files
 13-takes a list of words as input and prints only words that appear exactly once
 14-display lines containing pattern root
+15-count number of lines with bin
