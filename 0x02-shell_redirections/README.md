@@ -20,4 +20,5 @@
 11-counts number of directories and sub directories
 11-counts number of directories and sub directories
 11-counts number of directories and sub directories
-
+12-shows the 10 newest files12-shows the 10 newest files
+13-
