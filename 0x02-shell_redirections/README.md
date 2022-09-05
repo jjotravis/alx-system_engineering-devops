@@ -28,3 +28,4 @@
 17-Display lines without root
 18-display lines that begin with letters only
 19-replace letters in input
+20-remove letter c from input
