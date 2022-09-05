@@ -8,3 +8,5 @@
 7-creates file  with line in it
 8-Writes the result of ls to certain file
 9-duplicate last liine in the file
+10-deletes all .js files
+
