@@ -2,3 +2,9 @@
 # Starting apache webserver
 
 service apache2 start
+if pgrep -x "apache2" >> /dev/null
+then
+    echo "apache2 is running"
+else
+    exho "apache2 is not running"
+fi
