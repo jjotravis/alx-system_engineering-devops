@@ -1,4 +1,4 @@
-#!/bin/basf
+#!/usr/bin/env bash
 # Starting apache webserver
 
 service apache2 start
