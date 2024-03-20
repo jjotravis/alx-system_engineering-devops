@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Stops to infinity and beyond
+pkill -f ./7-hi

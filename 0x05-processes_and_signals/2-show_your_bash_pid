@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays running bash processes
+ps aux | grep bash
