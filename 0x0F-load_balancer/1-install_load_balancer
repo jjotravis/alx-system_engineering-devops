@@ -12,13 +12,13 @@ listen appname 0.0.0.0:80
     server 124224-web-01 54.90.1.246:80 check
     server 124224-web-02 54.210.96.236:80 check"
 
-sudo apt-get update
-sudo apt-get -y install nginx
+apt-get update
+apt-get -y install nginx
 #version 1.5 and above
-sudo apt-get install -y haproxy
+apt-get install -y haproxy
 #enable HAproxy can be managed via an init script
-sudo sed -i "s/ENABLED=0/ENABLED=1/" /etc/default/haproxy
+sed -i "s/ENABLED=0/ENABLED=1/" /etc/default/haproxy
 # include roundrobin and two servers
-sudo sed -i "\$a $CONFGF" /etc/haproxy/haproxy.cfg
+sed -i "\$a $CONFGF" /etc/haproxy/haproxy.cfg
 
-sudo service haproxy start
+service haproxy start
