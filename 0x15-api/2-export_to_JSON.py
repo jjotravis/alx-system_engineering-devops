@@ -2,9 +2,9 @@
 """For a given employee ID
 returns information about his/her TODO list progress
 export data in the JSON format."""
+import json
 import requests
 import sys
-import json
 
 if __name__ == "__main__":
     userid = sys.argv[1]
